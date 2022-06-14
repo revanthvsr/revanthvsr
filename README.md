@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @revanthvsr
-- 👀 I’m interested in Front end development
-- 🌱 I’m currently learning javaScript and React.js
-- 📫 Reach me at revanthviswanathan007@gmail.com
+- Hi, I’m @revanthvsr
+- I’m interested in Front end development
+- I’m currently learning JavaScript and React.js
+- Reach me at revanthviswanathan007@gmail.com
